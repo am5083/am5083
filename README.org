@@ -1,0 +1,9 @@
+#+title: am5083
+
+* Interests
+- Systems Programming
+- Chess Programming
+
+  Mostly write C/C++ but want to experiment a bit with Rust.
+* Current Projects
+- Yayo, a UCI compliant chess engine

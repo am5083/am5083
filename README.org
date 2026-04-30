@@ -1,9 +1,4 @@
 #+title: am5083
+C/Rust programmer; interested in applied game theory and low-level systems programming.
 
-* Interests
-- Systems Programming
-- Chess Programming
-
-  Mostly write C/C++ but want to experiment a bit with Rust.
-* Current Projects
-- Yayo, a UCI compliant chess engine
+Currently interested in optimizing CFR+ traversal for imperfect-information game trees. 
